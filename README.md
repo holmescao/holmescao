@@ -1,6 +1,6 @@
 # About me
 
-:mortar_board: Education: Master, Xiamen University
+:mortar_board: Education: Master of Computer Science, Xiamen University
 
 :briefcase: Internship experience: Tencent AI Lab
 
