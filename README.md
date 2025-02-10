@@ -8,4 +8,4 @@
 
 :spider_web: Google Scholar website: [https://xueshu.soogle.top/citations?hl=zh-CN&user=ZYkHM6wAAAAJ](https://scholar.google.com/citations?user=ZYkHM6wAAAAJ&hl=zh-CN)
 
-:home: Home Page: [https://holmescao.github.io/](https://holmescao.github.io/)
+:house: Home Page: [https://holmescao.github.io/](https://holmescao.github.io/)
